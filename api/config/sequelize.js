@@ -12,7 +12,7 @@ const sequelize = new Sequelize(
 );
 
 sequelize
-    .sync()
+    .sync({alter:true})
     .then(() => {
         console.log("Database conexion exitosa");
     })
