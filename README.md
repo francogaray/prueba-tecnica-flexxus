@@ -1,6 +1,6 @@
 # Prueba Técnica - Backend - Flexxus
 
-En este repositorio encontrarás la resolución de la entrevista técnia solicitada.
+En este repositorio encontrarás la resolución de la entrevista técnica solicitada.
 
 ### Algoritmos
 
@@ -14,9 +14,9 @@ También en la raíz del proyecto se ecuentra el archivo "consultas.sql" con la 
 
 La última parte del ejercicio fue resuelta con NodeJS, Express, Sequelize y MySQL. Para correr la apliación se puede realizar mediante docker o bien utilizando Workbench o DBeaver.
 
-Para su instalación luego de clonar el repositorio hay que ingresar a a la carpeta api y ejecutar "npm instal" y luego "npm run dev"
+Para su instalación luego de clonar el repositorio hay que ingresar a la carpeta api y ejecutar "npm install" y luego "npm run dev"
 
-El proyecto cuenta con una arquitectura de modelos y controladores escalables, utilicé Sequelize como ORM para establecer la conexión y el modelado de la tabla.
+El proyecto cuenta con una arquitectura de modelos y controladores escalables, utilicé Sequelize como ORM para establecer la conexión y el modelado y mapeo de la tabla.
 
 También se implementó Swagger para la documentación de los endpoints.
 
@@ -26,9 +26,9 @@ También se utilizaron middlewares para restringir endpoints o en un futuro impl
 
 #### Conclusiones:
 
-Fue un gran desafío, y una gran experiencia. Me permitió poder implementar las herramientas con las que más comodo me siento pero así mismo me llevó a investigar algunas que no suelo usar con frecuencia. Tal es el caso de Docker y Swagger. Es una proyecto que es básico pero está pensado en su escalabilidad, mejoras como nuevas funcionalidades.
+Fue un gran desafío, y una gran experiencia. Me permitió poder implementar las herramientas con las que más cómodo me siento pero así mismo me llevó a investigar algunas que no suelo usar con frecuencia. Tal es el caso de Docker y Swagger. Es un proyecto que por el momento es básico pero está pensado en su escalabilidad, mejoras y nuevas funcionalidades.
 
-Quedo a disposición para cualquier consulta o duda sobre lo que he realizado y estoy a tento a recibir cualquier tipo de feedback y crítca que me ayude a mejorar!
+Quedo a disposición para cualquier consulta o duda sobre lo que he realizado y estoy atento a recibir cualquier tipo de feedback y crítca que me ayude a mejorar!
 
 Saludos cordiales...
 
